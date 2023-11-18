@@ -7,7 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>Welcome to the land of the Glizzy Gulpers</p>
+<p>Welcome to the land of the Glizzy Gulpers</p><br>
+<p>Founded in 2022, this league has seen various faces come and go. However, we are converging on a squad that is dedicated
+to their craft of analyzing data and spotting diamonds in the rough in order to avoid weekly shotgunning and a 24-hr date at IHOP.</p>
+<p> While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, 
+the champion manager also walks away with $800 and the last place manager spends 24hrs in an IHOP</p>
+
 `;
 
 /*   STEP 3   */
